@@ -6,4 +6,4 @@ localhost ansible_connection=local
 
 ### Add VM to dev group
 [dev]
-vm-f20
+localhost
